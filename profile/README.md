@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=flat-square&logo=vscode&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 
+### Config
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/> &nbsp;
+
 ### Frontend (App)
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white"/>
