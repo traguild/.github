@@ -10,7 +10,7 @@
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/76539118?v=4" width="150" alt="정호원" /> | <img src="https://avatars.githubusercontent.com/u/54894162?v=4" width="150" alt="이준하" /> | <img src="https://avatars.githubusercontent.com/u/50660496?v=4" width="150" alt="이진우" /> |
 |                         [@ONE0x393](https://github.com/ONE0x393)                         |                          [@dlwnsgk](https://github.com/dlwnsgk)                          |                      [@dlwlsdn8864](https://github.com/dlwlsdn8864)                      |
-|                                     Fullstack, Infra                                     |                                         Frontend                                         |                                         Backend                                          |
+|                                     Fullstack, Infra                                     |                                         Frontend(App)                                    |                                         Backend                                          |
 
 </div></br>
 
@@ -30,9 +30,13 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=flat-square&logo=vscode&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
+### Frontend (App)
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white"/>
+
+### Frontend (Web)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> &nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> &nbsp;
 
 ### Backend
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/> &nbsp;
