@@ -25,6 +25,11 @@
 </br></br>
 
 ## 기술 스택
+### Collaboration
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/> &nbsp;
+
 ### Environment
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=flat-square&logo=vscode&logoColor=white"/> &nbsp;
