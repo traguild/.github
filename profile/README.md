@@ -1,6 +1,6 @@
 # 모험가 길드
 
-</br>
+</br></br>
 
 ## 팀 구성원
 
@@ -12,7 +12,7 @@
 |                         [@ONE0x393](https://github.com/ONE0x393)                         |                          [@dlwnsgk](https://github.com/dlwnsgk)                          |                      [@dlwlsdn8864](https://github.com/dlwlsdn8864)                      |
 |                                     Fullstack, Infra                                     |                                         Frontend(App)                                    |                                         Backend                                          |
 
-</div></br>
+</div></br></br>
 
 ## 프로젝트 개요
 - **프로젝트 명:** 지역 의뢰 플랫폼
@@ -22,7 +22,7 @@
   - 지도의 마커를 통하여 자신 주변에 있는 의뢰들을 쉽게 확인
   - 완료된 의뢰에 따라서 경험치와 칭호를 부여하는 것으로 사용자의 재미 요소를 추가
 
-</br>
+</br></br>
 
 ## 기술 스택
 ### Environment
@@ -46,10 +46,25 @@
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp; 
 
 ### Infra
 <img src="https://img.shields.io/badge/Amazon Web Services-252F3E?style=flat-square&logo=aws&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> &nbsp;
+
+</br></br>
+
+## 시스템 아키텍처
+![Image](https://github.com/user-attachments/assets/ba221a09-093f-4fe5-97fd-303cc4bd15a0)
+
+</br></br>
+
+## CI/CD
+### Back-end
+![Image](https://github.com/user-attachments/assets/c9734a3a-4663-4175-b25b-15c8a5010907)
+### Front-end (app)
+![Image](https://github.com/user-attachments/assets/c4bd7764-f45e-4c2c-94d4-d71a944a5e92)
+### Front-end (web)
+![Image](https://github.com/user-attachments/assets/455c319d-ffa7-4fc9-8bc0-db15915188a4)
